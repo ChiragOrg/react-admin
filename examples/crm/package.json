@@ -9,7 +9,7 @@
     "@nivo/core": "^0.67.0",
     "date-fns": "^2.19.0",
     "faker": "~5.4.0",
-    "lodash": "~4.17.5",
+    "lodash": "~4.17.21",
     "prop-types": "^15.7.2",
     "ra-data-fakerest": "^3.13.4",
     "react": "^17.0.0",
